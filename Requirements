@@ -1,0 +1,26 @@
+"TechItEasy" Applicatie
+
+User permissions:
+- Admin, kan volledig acties uitvoeren
+- Medewerker, kan beperkt acties uitvoeren
+
+Functional Requirements
+
+1. Als admin wil ik matchende artikelen inzien, zodat ik combideals kan maken.
+2. Als admin wil ik hoeveel producten er verkocht zijn, zodat ik mijn omzet weet.
+3. Als admin wil ik kunnen zien wat de voorraad is van ieder product, zodat ik weet welke producten besteld moeten worden.
+4. Als admin wil ik product informatie kunnen aanpassen en overschrijven, zodat ik fouten kan oplossen of veranderingen kan doorvoeren.
+5. Als medewerker wil ik een overzicht van alle tv's, zodat ik weet welke producten we verkopen.
+6. Als medewerker wil ik een overzicht van alle afstandsbedieningen, zodat ik weet welke producten we verkopen.
+7. Als medewerker wil ik een overzicht van alle muurbeugels, zodat ik weet welke producten we verkopen.
+8. Als medewerker wil ik een overzicht van alle ci-modules, zodat ik weet welke producten we verkopen.
+
+Non-functional Requirements
+
+1. De applicatie moet de UI aan te passen zijn aan de Branding (Kleuren, fonts en Logo)
+2. De applicatie moet je aan de producten een product foto toe kunnen voegen
+3. De gebruiker maakt gebruik van multi-factor authentication
+4. De gebruiker kan een profiel aanmaken
+5. De applicatie moet voor zowel mac als windows te gebruiken zijn
+6. De applicatie is ontwikkeld om door te verkopen aan andere winkels
+7. De admin kan gebruikers toevoegen en verwijderen
